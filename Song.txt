@@ -7,5 +7,5 @@ add new lines of song
 add second couplet
 add second couplet
 
-last lines
-new last line
+first last line
+second last line
