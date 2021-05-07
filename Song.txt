@@ -4,5 +4,6 @@ Text for song
 add new lines of song
 add new lines of song
 
-add cecond couplet
-add cecond couplet
+add second couplet
+add second couplet
+
